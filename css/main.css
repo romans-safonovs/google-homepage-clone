@@ -36,3 +36,7 @@ a {
   display: flex;
   opacity: .55;
 }
+
+#sign-in {
+  background-color: #4285f4;
+}
