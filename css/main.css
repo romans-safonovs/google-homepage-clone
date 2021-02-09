@@ -27,6 +27,10 @@ a {
   padding: 12px;
 }
 
+#gmail:hover, #images:hover {
+  text-decoration: underline;
+}
+
 #google-apps a {
   padding: 0px;
   background-image: url("https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
