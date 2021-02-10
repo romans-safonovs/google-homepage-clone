@@ -57,6 +57,7 @@ a {
 footer {
   background-color: #f2f2f2;
   display: flex;
+  justify-content: space-between;
 }
 
 footer ul {
