@@ -54,6 +54,10 @@ a {
   box-shadow: 0 1px 0 rgba(0,0,0,.15);
 }
 
+footer ul {
+  list-style-type: none;
+}
+
 footer ul li {
   padding: 12px;
 }
